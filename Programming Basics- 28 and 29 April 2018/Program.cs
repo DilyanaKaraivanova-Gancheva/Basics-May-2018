@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Programming_Basics__28_and_29_April_2018
+namespace 01_Programming_Book
 {
     class Program
     {
