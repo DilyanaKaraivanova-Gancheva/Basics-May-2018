@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\bin\Debug\_02.Calorie_Calculator.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\bin\Debug\_02.Calorie_Calculator.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\bin\Debug\_02.Calorie_Calculator.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\obj\Debug\02. Calorie Calculator.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\obj\Debug\02. Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\obj\Debug\_02.Calorie_Calculator.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\02. Calorie Calculator\obj\Debug\_02.Calorie_Calculator.pdb

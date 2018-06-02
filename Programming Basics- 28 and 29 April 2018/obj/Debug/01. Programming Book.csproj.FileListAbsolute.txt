@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\bin\Debug\Programming Basics- 28 and 29 April 2018.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\bin\Debug\Programming Basics- 28 and 29 April 2018.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\bin\Debug\Programming Basics- 28 and 29 April 2018.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\obj\Debug\01. Programming Book.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\obj\Debug\01. Programming Book.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\obj\Debug\Programming Basics- 28 and 29 April 2018.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\Programming Basics- 28 and 29 April 2018\obj\Debug\Programming Basics- 28 and 29 April 2018.pdb
