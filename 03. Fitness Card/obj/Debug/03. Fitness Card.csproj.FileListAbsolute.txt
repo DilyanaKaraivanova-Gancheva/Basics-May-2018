@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\bin\Debug\_03.Fitness_Card.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\bin\Debug\_03.Fitness_Card.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\bin\Debug\_03.Fitness_Card.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\obj\Debug\03. Fitness Card.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\obj\Debug\03. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\obj\Debug\_03.Fitness_Card.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\03. Fitness Card\obj\Debug\_03.Fitness_Card.pdb
