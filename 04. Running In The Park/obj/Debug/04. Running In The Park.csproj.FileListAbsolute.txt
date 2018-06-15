@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\bin\Debug\_04.Running_In_The_Park.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\bin\Debug\_04.Running_In_The_Park.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\bin\Debug\_04.Running_In_The_Park.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\obj\Debug\04. Running In The Park.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\obj\Debug\04. Running In The Park.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\obj\Debug\_04.Running_In_The_Park.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Running In The Park\obj\Debug\_04.Running_In_The_Park.pdb
