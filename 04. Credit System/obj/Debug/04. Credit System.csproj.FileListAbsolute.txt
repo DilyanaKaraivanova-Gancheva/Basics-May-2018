@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\bin\Debug\_04.Credit_System.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\bin\Debug\_04.Credit_System.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\bin\Debug\_04.Credit_System.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\obj\Debug\04. Credit System.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\obj\Debug\04. Credit System.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\obj\Debug\_04.Credit_System.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\04. Credit System\obj\Debug\_04.Credit_System.pdb
