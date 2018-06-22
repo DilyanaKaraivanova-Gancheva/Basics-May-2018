@@ -8,8 +8,8 @@ namespace _05.Draw_Fort
 {
     class Program
     {
-        static void Main(string[] args)
-        { // ЗАДАЧА 5 - ОТ Coding 101 Exam - 6 March 2016
+        static void Main(string[] args)   // ЗАДАЧА 5 - ОТ Coding 101 Exam - 6 March 2016
+        {
             int n = int.Parse(Console.ReadLine());
 
             // top
