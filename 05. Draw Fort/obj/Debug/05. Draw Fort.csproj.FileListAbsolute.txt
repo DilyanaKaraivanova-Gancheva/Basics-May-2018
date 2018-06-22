@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\bin\Debug\_05.Draw_Fort.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\obj\Debug\05. Draw Fort.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\obj\Debug\05. Draw Fort.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\obj\Debug\_05.Draw_Fort.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\05. Draw Fort\obj\Debug\_05.Draw_Fort.pdb
