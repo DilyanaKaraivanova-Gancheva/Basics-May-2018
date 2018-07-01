@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\bin\Debug\_05.Sublime_Logo.exe.config
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\bin\Debug\_05.Sublime_Logo.exe
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\bin\Debug\_05.Sublime_Logo.pdb
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\obj\Debug\05. Sublime Logo.csprojResolveAssemblyReference.cache
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\obj\Debug\05. Sublime Logo.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\obj\Debug\_05.Sublime_Logo.exe
+C:\Users\IvanGanchev\source\repos\ExamPrep\05. Sublime Logo\obj\Debug\_05.Sublime_Logo.pdb
