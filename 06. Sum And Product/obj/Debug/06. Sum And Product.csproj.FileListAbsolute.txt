@@ -1,0 +1,7 @@
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\bin\Debug\_06.Sum_And_Product.exe.config
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\bin\Debug\_06.Sum_And_Product.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\bin\Debug\_06.Sum_And_Product.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\obj\Debug\06. Sum And Product.csproj.CoreCompileInputs.cache
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\obj\Debug\_06.Sum_And_Product.exe
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\obj\Debug\_06.Sum_And_Product.pdb
+C:\Users\IvanGanchev\source\repos\Programming Basics- 28 and 29 April 2018\06. Sum And Product\obj\Debug\06. Sum And Product.csprojResolveAssemblyReference.cache
